@@ -17,3 +17,5 @@ Control policies in Data-centric applications.
 #### SQLSI [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.modelsvgu/sqlsi/badge.svg)](http://maven-badges.herokuapp.com/maven-central/io.github.modelsvgu/sqlsi)
 
 #### OCL2MSFOL [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.modelsvgu/OCL2MSFOL/badge.svg)](http://maven-badges.herokuapp.com/maven-central/io.github.modelsvgu/OCL2MSFOL)
+
+#### SQL2MSFOL [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.modelsvgu/SQL2MSFOL/badge.svg)](http://maven-badges.herokuapp.com/maven-central/io.github.modelsvgu/SQL2MSFOL)
